@@ -20,7 +20,7 @@ Return step-by-step tasks for a developer.
 shahziab kelwkekwejjkkj;kkjkljjjkljk
 --requirement = input("Enter requirement: ")
 
-formatted_prompt = prompt.format(req=requirement)
+formatted_  prompt.format(req=requirement)
 
 response = llm.invoke(formatted_prompt)
 
