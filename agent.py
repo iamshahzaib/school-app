@@ -17,8 +17,8 @@ Requirement:
 
 Return step-by-step tasks for a developer.
 """)
-
-requirement = input("Enter requirement: ")
+shahziab
+--requirement = input("Enter requirement: ")
 
 formatted_prompt = prompt.format(req=requirement)
 
